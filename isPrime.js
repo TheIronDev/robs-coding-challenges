@@ -1,3 +1,8 @@
+/**
+ * To Execute, run: node isPrime 13
+ * 
+ */
+
 var testNumber = process.argv[2];
 
 /**
